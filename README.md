@@ -18,3 +18,7 @@ Bearings or Mellow Vcore 3 Idler kit <a href="https://www.aliexpress.us/item/325
 (16) Ball Bearing - F695ZZ  <br />
 (4) Meters 9MM-2GT  <br />
 (2) 2GT 9mm pullys  <br />
+
+![Gantry_V1 Front](https://user-images.githubusercontent.com/32583471/212573484-a8326700-7475-4201-864f-4f137afdc19c.png)
+
+![Gantry_V1 Back](https://user-images.githubusercontent.com/32583471/212573510-4fc6f6e0-16bc-4773-96ed-52bd803965d3.png)
