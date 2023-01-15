@@ -16,4 +16,5 @@ M3 Screws for linear Rails  <br />
 Bearings or Mellow Vcore 3 Idler kit  <br />
 (8) Ball Bearing - 695ZZ  <br />
 (16) Ball Bearing - F695ZZ  <br />
-New 9mm belts  <br />
+(4) Meters 9MM-2GT  <br />
+(2) 2GT 9mm pullys  <br />
