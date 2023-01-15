@@ -4,7 +4,7 @@ This is deprecated and no longer worked on but can still be used for gantry in t
 
 Note: This grantry design is based on the RatRig V-Core 3 Idler set from Mellow or Bearings. It will not work with GT2 idlers.
 
-BOM:
+BOM:  <br />
 X-2020-Extrusion 395mm  <br />
 (2) 350mm MGN9H Linear Rails (For Y axis)  <br />
 (1) 350mm MGN9H or MGN12H Linear Rail (For X axis)  <br />
