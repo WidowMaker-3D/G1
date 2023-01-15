@@ -13,7 +13,7 @@ X-2020-Extrusion 395mm ( Will have to drill a hole for the M5 screw to go though
 (20) M5 10mm Screws  <br />
 M3 Screws for linear Rails  <br />
 
-Bearings or Mellow Vcore 3 Idler kit  <br />
+Bearings or Mellow Vcore 3 Idler kit [Link] (https://www.aliexpress.us/item/3256803356356203.html?spm=a2g0o.order_list.order_list_main.125.49dc1802IR3fcw&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)  <br />
 (8) Ball Bearing - 695ZZ  <br />
 (16) Ball Bearing - F695ZZ  <br />
 (4) Meters 9MM-2GT  <br />
