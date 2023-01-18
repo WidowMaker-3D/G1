@@ -10,7 +10,7 @@ X-2020-Extrusion 395mm ( Will have to drill a hole for the M5 screw to go though
 (1) 350mm MGN9H or MGN12H Linear Rail (For X axis)  <br />
 (2) M5x45mm BHCS  <br />
 (6) M5x35mm BHCS  <br />
-(20) M5x10mm BHCS  <br />
+(30) M5x10mm BHCS  <br />
 (20) M3x8mm SHCS  <br />
 (20) M3 T-Slot (Roll-in) Nuts for linear Rails to attach to 2040 extrusions  <br />
 
