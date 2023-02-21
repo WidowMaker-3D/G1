@@ -14,10 +14,10 @@ X-2020-Extrusion 395mm ( Will have to drill a hole for the M5 screw to go though
 (20) M3x8mm SHCS  <br />
 (20) M3 T-Slot (Roll-in) Nuts for linear Rails to attach to 2040 extrusions  <br />
 
-Bearings or Mellow Vcore 3 Idler kit <a href="https://www.aliexpress.us/item/3256803356356203.html?spm=a2g0o.order_list.order_list_main.125.49dc1802IR3fcw&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US">link</a>  <br />
-(8) Ball Bearing - 695ZZ  <br />
-(16) Ball Bearing - F695ZZ  <br />
-(4) Meters 9MM-2GT  <br />
+Bearings for idlers - (8) 695ZZ (16) F695ZZ  <br /> 
+or <br /> 
+Mellow Vcore 3 Idler kit <a href="https://www.aliexpress.us/item/3256803356356203.html?spm=a2g0o.order_list.order_list_main.125.49dc1802IR3fcw&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US">link</a>  <br />
+(3) Meters 9MM-2GT  <br />
 (2) 2GT 9mm pullys 20 tooth <br />
 
 ![Gantry_V1 Front](https://user-images.githubusercontent.com/32583471/212573484-a8326700-7475-4201-864f-4f137afdc19c.png)
