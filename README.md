@@ -1,6 +1,6 @@
 The first Gantry upgrade for the Ender 6.
 
-This is deprecated (Now WidowMaker) and no longer worked on but can still be used.
+This is mod keeps the factory bed and replaces the gantry to allow MGN9H rails to be placed on the inside on the 2040 extrusions and use the EVA 2.4 printhead.
 
 Notes: This grantry design is based on the RatRig V-Core 3 Idler set from Mellow or Bearings and MGN9H rails on Y axis. It will not work with GT2 idlers or MGN12H. <br />
 X-2020-Extrusion 395mm ( Will have to drill a hole for the M5 screw to go thought the extrusion) <br />
