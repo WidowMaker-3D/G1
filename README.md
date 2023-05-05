@@ -7,6 +7,6 @@ X-2020-Extrusion 395mm ( Will have to drill a hole for the M5 screw to go though
 
 [BOM](https://docs.google.com/spreadsheets/d/1xHzaLZ2LQ_ECm0iU-KKARc_SgZB8hcGOdcfZmdqNrf4/edit?usp=sharing)
 
-![Gantry_V1 Front](https://user-images.githubusercontent.com/32583471/212573484-a8326700-7475-4201-864f-4f137afdc19c.png)
+![G1 Front](https://user-images.githubusercontent.com/32583471/212573484-a8326700-7475-4201-864f-4f137afdc19c.png)
 
-![Gantry_V1 Back](https://user-images.githubusercontent.com/32583471/212573510-4fc6f6e0-16bc-4773-96ed-52bd803965d3.png)
+![G1 Back](https://user-images.githubusercontent.com/32583471/212573510-4fc6f6e0-16bc-4773-96ed-52bd803965d3.png)
